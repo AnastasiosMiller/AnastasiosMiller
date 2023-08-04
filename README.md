@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnastasiosMiller
 - 👀 I’m interested in algorithms
-- 🌱 I’m currently learning development
+- 🌱 I’m currently learning AI development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
